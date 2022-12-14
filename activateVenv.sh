@@ -1,0 +1,1 @@
+. ../VENVPY/adventofcode/bin/activate
