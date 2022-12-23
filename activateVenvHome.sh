@@ -1,0 +1,1 @@
+. ../../VENVS/adventofcode/Scripts/Activate.ps1
